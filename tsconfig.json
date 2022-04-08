@@ -3,7 +3,7 @@
         "./src/**/*"
     ],
     "compilerOptions": {
-        "strict": true,
+        "strict": true, //型指定しないとエラーが出るようになる
         "esModuleInterop": true,
         "lib": [
             "dom",
